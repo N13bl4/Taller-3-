@@ -1,0 +1,9 @@
+[
+  {"url":"amigos/amigos.wav","type":"audio","bank":"amigos","n":0},
+  {"url":"chirri/chirri.wav","type":"audio","bank":"chirri","n":0},
+  {"url":"chirri/chirri_2.wav","type":"audio","bank":"chirri","n":0},
+  {"url":"chirri/chirri_3.wav","type":"audio","bank":"chirri","n":0},
+  {"url":"cumbia/cumbia.wav","type":"audio","bank":"cumbia","n":0},
+  {"url":"grillo/grillo.wav","type":"audio","bank":"grillo","n":0},
+  {"url":"motor/motor.wav","type":"audio","bank":"motor","n":0},
+]
